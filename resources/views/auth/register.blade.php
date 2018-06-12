@@ -1,4 +1,4 @@
-@extends('layouts.app')
+rt@extends('layouts.app')
 
 @section('content')
     <div class="text-center">
